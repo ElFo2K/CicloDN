@@ -1,4 +1,6 @@
 # CicloDN
+**Mod privado exclusivamente creado para el Streamer Soarinng.**
+
 ### Version Española:
 
 **Cómo funciona el mod de CicloDN**
