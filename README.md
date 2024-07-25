@@ -2,6 +2,7 @@
 ### Version Española:
 
 **Cómo funciona el mod de CicloDN**
+
 Este mod te permite ajustar a tu gusto la duración del ciclo de día y noche en Minecraft con un solo comando sencillo.
 
 Los comandos son:
@@ -12,6 +13,7 @@ Los comandos son:
 ### English Version:
 
 **How the CicloDN Mod Works**
+
 This mod allows you to customize the duration of the day and night cycle in Minecraft with a simple command.
 
 The commands are:
